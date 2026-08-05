@@ -658,13 +658,13 @@
 
 <section id="contact" class="contact">
   <div class="wrap">
-    <div class="section-tag">05 / CONTACT</div>
+    <div class="section-tag">05 / +2347043982188</div>
     <h2>Have a pipeline that needs sorting out?</h2>
     <p>I'm currently taking on new projects/tasks. If you need a CRM set up right, outreach that gets replies, or a workflow built so your team stops doing it by hand, let's talk.</p>
     <div class="contact-links">
       <a href="#" class="btn btn-primary"> →</a>https://www.upwork.com/freelancers/~019888d8d087a6aa30?mp_source=share
       <a href="#" class="btn btn-ghost">https://www.linkedin.com/in/ifunanya-ezulu90/ →</a>
-      <a href="mailto:ifunanyaezulu90@gmail.com" class="btn btn-ghost">Email me →</a>
+      <a href="mailto:ifunanyaezulu90@gmail.com" class="btn btn-ghost">ifunanyaezulu90@gmail.com →</a>
     </div>
   </div>
 </section>
