@@ -341,7 +341,7 @@
 
 <section class="hero">
   <div class="wrap">
-    <div class="eyebrow">Available for freelance engagements</div>
+    <div class="eyebrow">Available for full -time/Part-time/Contract Projects</div>
     <h1>I build the systems that turn a founder's <span>growing pipeline</span> into something they can actually run.</h1>
     <p class="hero-sub">Revenue Operations and Customer Acquisition specialist. I set up your CRM, automate the busywork, and get outbound outreach actually landing meetings, so you can spend your time closing instead of managing spreadsheets.</p>
     <div class="hero-actions">
